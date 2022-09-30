@@ -4,3 +4,7 @@ body {
     text-align: center;
     font-size: 20px;
 }
+h1 {
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
